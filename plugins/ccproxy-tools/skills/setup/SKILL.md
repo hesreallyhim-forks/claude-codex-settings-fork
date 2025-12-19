@@ -1,6 +1,7 @@
 ---
 name: setup
-description: This skill should be used when user encounters "ccproxy not found", "LiteLLM connection failed", "localhost:4000 refused", "OAuth failed", "proxy not running", or needs help configuring ccproxy/LiteLLM integration.
+description: |-
+  This skill should be used when user encounters "ccproxy not found", "LiteLLM connection failed", "localhost:4000 refused", "OAuth failed", "proxy not running", or needs help configuring ccproxy/LiteLLM integration.
 ---
 
 # ccproxy-tools Setup
